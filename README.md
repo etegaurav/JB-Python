@@ -1,2 +1,2 @@
 # JB-Python
-Python projects from jetbrains
+This folder contains the list of notebooks which get created during my python journey
